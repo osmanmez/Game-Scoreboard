@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/osmanmez/Game-Scoreboard.git/static/css/main.2578e149.css",
-    "main.js": "/osmanmez/Game-Scoreboard.git/static/js/main.fc6bc170.js",
-    "static/js/787.abbcb2e9.chunk.js": "/osmanmez/Game-Scoreboard.git/static/js/787.abbcb2e9.chunk.js",
-    "static/media/bg.jpg": "/osmanmez/Game-Scoreboard.git/static/media/bg.7fb6524567a969bf1922.jpg",
-    "index.html": "/osmanmez/Game-Scoreboard.git/index.html",
-    "main.2578e149.css.map": "/osmanmez/Game-Scoreboard.git/static/css/main.2578e149.css.map",
-    "main.fc6bc170.js.map": "/osmanmez/Game-Scoreboard.git/static/js/main.fc6bc170.js.map",
-    "787.abbcb2e9.chunk.js.map": "/osmanmez/Game-Scoreboard.git/static/js/787.abbcb2e9.chunk.js.map"
+    "main.css": "/Game-Scoreboard/static/css/main.74d34d1f.css",
+    "main.js": "/Game-Scoreboard/static/js/main.2719eae1.js",
+    "static/js/787.abbcb2e9.chunk.js": "/Game-Scoreboard/static/js/787.abbcb2e9.chunk.js",
+    "static/media/bg.jpg": "/Game-Scoreboard/static/media/bg.7fb6524567a969bf1922.jpg",
+    "index.html": "/Game-Scoreboard/index.html",
+    "main.74d34d1f.css.map": "/Game-Scoreboard/static/css/main.74d34d1f.css.map",
+    "main.2719eae1.js.map": "/Game-Scoreboard/static/js/main.2719eae1.js.map",
+    "787.abbcb2e9.chunk.js.map": "/Game-Scoreboard/static/js/787.abbcb2e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2578e149.css",
-    "static/js/main.fc6bc170.js"
+    "static/css/main.74d34d1f.css",
+    "static/js/main.2719eae1.js"
   ]
 }
