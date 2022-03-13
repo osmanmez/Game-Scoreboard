@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/osmanmez/Game-Scoreboard.git/static/css/main.2578e149.css",
+    "main.js": "/osmanmez/Game-Scoreboard.git/static/js/main.fc6bc170.js",
+    "static/js/787.abbcb2e9.chunk.js": "/osmanmez/Game-Scoreboard.git/static/js/787.abbcb2e9.chunk.js",
+    "static/media/bg.jpg": "/osmanmez/Game-Scoreboard.git/static/media/bg.7fb6524567a969bf1922.jpg",
+    "index.html": "/osmanmez/Game-Scoreboard.git/index.html",
+    "main.2578e149.css.map": "/osmanmez/Game-Scoreboard.git/static/css/main.2578e149.css.map",
+    "main.fc6bc170.js.map": "/osmanmez/Game-Scoreboard.git/static/js/main.fc6bc170.js.map",
+    "787.abbcb2e9.chunk.js.map": "/osmanmez/Game-Scoreboard.git/static/js/787.abbcb2e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2578e149.css",
+    "static/js/main.fc6bc170.js"
+  ]
+}
